@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi_app_banner.png.flat",
+        "source": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/src/main/res/drawable-xhdpi/app_banner.png"
+    },
+    {
+        "merged": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    }
+]

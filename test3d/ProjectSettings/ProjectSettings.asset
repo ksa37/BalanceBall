@@ -715,10 +715,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 521b746c-3755-45d5-87f2-259879409633
+  cloudProjectId: 6099f549-3f40-4705-bbe8-53deadf7ffad
   framebufferDepthMemorylessMode: 0
   projectName: test3d
-  organizationId: rlatndk010
+  organizationId: maxkim139
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

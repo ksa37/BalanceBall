@@ -1,0 +1,4 @@
+#Mon Jul 22 22:30:08 KST 2019
+base.0=/Users/teewon/Desktop/무제 폴더/BalanceBall/test3d/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{91A1D88F-45CD-420C-B6F4-74DE29657069}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/wow.cs">
+    <Files>
+      <File FileName="Assets/wow.cs" Line="15" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
