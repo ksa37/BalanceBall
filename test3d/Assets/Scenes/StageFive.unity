@@ -407,6 +407,11 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6490359137876694132, guid: 1c7d349018465b7478deb1096b3bb7d9,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 11
+      objectReference: {fileID: 0}
     - target: {fileID: 6490359137886635944, guid: 1c7d349018465b7478deb1096b3bb7d9,
         type: 3}
       propertyPath: m_Text
