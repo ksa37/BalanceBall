@@ -12,8 +12,8 @@ Stage 5까지 만들었고, 각 스테이지마다 조금씩 다른 구조로 �
 balanceball.apk파일을 이용해 안드로이드에서 설치 가능 <br>
 
 <h3>Preview</h3>
-![Screenshot_20210507-144641_test3d](https://user-images.githubusercontent.com/41234227/117403896-eb488480-af43-11eb-9089-18a932f26fc5.jpg)
-![Screenshot_20210507-144646_test3d](https://user-images.githubusercontent.com/41234227/117404001-1df27d00-af44-11eb-93c0-1bbc04f71661.jpg)
-![Screenshot_20210507-144650_test3d](https://user-images.githubusercontent.com/41234227/117404007-20ed6d80-af44-11eb-9488-832762ef51d5.jpg)
-![Screenshot_20210507-144805_test3d](https://user-images.githubusercontent.com/41234227/117404013-23e85e00-af44-11eb-9349-4a351a77523c.jpg)
-![Screenshot_20210507-144758_test3d](https://user-images.githubusercontent.com/41234227/117404017-264ab800-af44-11eb-8088-38bafe2450cc.jpg)
+<img src="https://user-images.githubusercontent.com/41234227/117403896-eb488480-af43-11eb-9089-18a932f26fc5.jpg"/>
+<img src="https://user-images.githubusercontent.com/41234227/117404001-1df27d00-af44-11eb-93c0-1bbc04f71661.jpg"/>
+<img src="https://user-images.githubusercontent.com/41234227/117404007-20ed6d80-af44-11eb-9488-832762ef51d5.jpg"/>
+<img src="https://user-images.githubusercontent.com/41234227/117404013-23e85e00-af44-11eb-9349-4a351a77523c.jpg"/>
+<img src="https://user-images.githubusercontent.com/41234227/117404017-264ab800-af44-11eb-8088-38bafe2450cc.jpg"/>
